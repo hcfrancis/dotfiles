@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = haannah4597@hotmail.co.uk
+	name = Hannah Francis
